@@ -48,7 +48,7 @@ body {
 
 .navbar-section.sticky {
     background-color: #e5e5e575;
-    backdrop-filter: blur(10px);
+    backdrop-filter: blur(8px);
     padding: 20px 0;
 }
 
